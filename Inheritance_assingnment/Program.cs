@@ -17,7 +17,7 @@ namespace Inheritance_assingnment
             string paymode;
             public void setdata()
             {
-                orderId = 23;
+                orderId = 233;
                 Date = "05/11/2000";
                 FurnitureType = "Chair";
                 Qnty = 2;
